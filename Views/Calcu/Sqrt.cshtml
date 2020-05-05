@@ -7,7 +7,7 @@
 </div>
 
 @{
-  if(ViewBag.numberOne==null&&ViewBag.numberTwo==null)
+    if(ViewBag.numberOne==null&&ViewBag.numberTwo==null)
     {
         <div>
             <p></p>
@@ -31,9 +31,7 @@
             <p>Your number @ViewBag.numberOne and @ViewBag.numberTwo have the same squareroot. Enter another value. </p>
         </div>  
     }
-  
 }
-      
 
 <div>
 <form asp-controller="Calcu" asp-action="Sqrt" method="POST">
