@@ -21,8 +21,8 @@ namespace WebAppSqrtCalculator.Controllers
             ViewBag.result2=result2;
             ViewBag.numberOne=firstNumber;
             ViewBag.numberTwo=secondNumber;
+            
             return View();
-
         }
     }
 }
