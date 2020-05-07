@@ -19,7 +19,6 @@ C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\WebAppSqrtCalculato
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\WebAppSqrtCalculator.TagHelpers.input.cache
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\WebAppSqrtCalculator.TagHelpers.output.cache
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\WebAppSqrtCalculator.RazorCoreGenerate.cache
-C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Calcu\Sqrt.cshtml.g.cs
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -36,3 +35,4 @@ C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\WebAppSqrtCalculato
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\WebAppSqrtCalculator.pdb
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\WebAppSqrtCalculator.genruntimeconfig.cache
 C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\WebAppSqrtCalculator.csproj.CopyComplete
+C:\Users\fatolu\WebAppSqrtCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Square\Sqrt.cshtml.g.cs
