@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebAppSqrtCalculator.Controllers
 {
-    public class CalcuController:Controller
+    public class SquareController:Controller
     {
         [HttpGet]
         public ActionResult Sqrt()
