@@ -20521,11 +20521,6 @@
   "RootNamespace": "WebAppSqrtCalculator",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\fatolu\\WebAppSqrtCalculator\\Views\\Calcu\\Sqrt.cshtml",
-      "TargetPath": "Views\\Calcu\\Sqrt.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\fatolu\\WebAppSqrtCalculator\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -20533,6 +20528,11 @@
     {
       "FilePath": "c:\\Users\\fatolu\\WebAppSqrtCalculator\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fatolu\\WebAppSqrtCalculator\\Views\\Square\\Sqrt.cshtml",
+      "TargetPath": "Views\\Square\\Sqrt.cshtml",
       "FileKind": "mvc"
     },
     {
